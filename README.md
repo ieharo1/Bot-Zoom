@@ -1,29 +1,42 @@
-# Bot-Zoom
+# 🤖 Bot-Zoom
 
-Proyecto Python para automatizar tareas en Zoom.
+Proyecto Python para automatizar tareas en Zoom desarrollado por **Isaac Esteban Haro Torres**.
 
-## Descripción
+---
+
+## 📝 Descripción
 
 Bot Python que automatiza tareas y procesos en la plataforma Zoom, como unirse a reuniones, enviar mensajes, etc.
 
-## Características
+---
+
+## ✨ Características
 
 - Automatización de reuniones
 - Envío de mensajes automáticos
 - Gestión de participantes
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - Python
 - Selenium
 - Zoom API
 
-## Autor
+---
 
-🧑‍💻 **Isaac Haro**
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Licencia
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-MIT — contribuciones bienvenidas 🚀
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
